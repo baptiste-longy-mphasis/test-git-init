@@ -1,0 +1,27 @@
+# Totally ignored bundles
+/WYNComplements
+/WYNInterface
+/WYNMigrate
+/WYNORAPRB
+/WYNPGandSQLServerPRB
+
+# We only keep *.cpp and *.h files in those bundles
+/WYNFramework/*
+/WYNCrossBusiness/*
+/WYNForms/*
+/WYNFileExchange/*
+/WYNLifeInsurance/*
+/WYNClaims/*
+/WYNLoan/*
+/WYNCashValue/*
+/WYNHealth/*
+/WYNReinsurance/*
+/WYNPnC/*
+/WYNBusinessServices/*
+/WYNNorm/*
+/WYNHealthServices/*
+/WYNApplications/*
+
+# The purpose of that repo is to keep track of *.cpp and *.h files
+!*.cpp
+!*.h
