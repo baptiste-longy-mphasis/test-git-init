@@ -1,1 +1,14 @@
-some dummy text
+other content
+
+List des actions à faire (probablement)
+
+git init
+git remote add origin URL
+git fetch
+git reset origin/BRANCHNAME
+git checkout -t origin/BRANCHNAME
+git checkout README.md
+git checkout .gitignore
+git add .
+git commit -m "message"
+git push
